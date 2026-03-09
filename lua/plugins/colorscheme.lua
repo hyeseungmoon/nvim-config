@@ -10,7 +10,7 @@ return {
         light = "latte",
         dark = "mocha",
       },
-      transparent_background = true,
+      transparent_background = false,
       float = { transparent = true, solid = true },
       show_end_of_buffer = false,
       term_colors = false,
